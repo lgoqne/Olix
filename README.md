@@ -9,6 +9,7 @@ A lightweight password manager built in Python that securely stores and retrieve
 
 ## Usage
 Install cryptography (pip install cryptography).
+
 Run `python pass.py` to start the application.
 
 ## Options
